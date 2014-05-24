@@ -2,12 +2,7 @@ turkey-censorship-timemap
 =========================
 
 TimeMap of Media Censorship during the Turkish Protests
+Uses the JS Simple Slider and Google Fusion Tables
 
-mkdir ~/Hello-World
-cd ~/Hello-World
-git init
-touch README
-git add README
-git commit -m 'first commit'
-git remote add origin https://github.com/vanessako/Hello-World.git
-git push origin master
+# Index.html file hosts the map itself
+# Intro.html is a simple HTML front page
